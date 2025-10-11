@@ -168,6 +168,13 @@ Before committing:
 - Check workflow permissions in Settings > Actions > General
 - Review workflow logs for error messages
 
+### Permission Denied Error (403)
+If the snake animation workflow fails with "Permission denied" or 403 error:
+- The workflow file needs explicit `permissions: contents: write` in the YAML
+- Go to Settings > Actions > General > Workflow permissions
+- Ensure "Read and write permissions" is selected, or
+- Use the `permissions` block in your workflow file (recommended)
+
 ### Stats Not Updating
 - GitHub stats cache for ~4 hours
 - Use `&cache_seconds=1800` to reduce cache time
