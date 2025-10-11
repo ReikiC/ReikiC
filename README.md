@@ -124,8 +124,6 @@
   <img src="https://raw.githubusercontent.com/ReikiC/ReikiC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> **Note:** To enable the snake animation, set up the [snk workflow](https://github.com/Platane/snk) GitHub Action.
-
 ---
 
 <div align="center">
