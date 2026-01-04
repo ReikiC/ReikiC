@@ -30,12 +30,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReikiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReikiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-demolab.vercel.app/api?username=ReikiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=ReikiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReikiC&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ReikiC&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@
 
 <div align="center">
   <a href="https://github.com/ReikiC/ReikiC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReikiC&repo=ReikiC&theme=tokyonight&hide_border=true" alt="ReikiC Repo" />
+    <img src="https://github-readme-stats-demolab.vercel.app/api/pin/?username=ReikiC&repo=ReikiC&theme=tokyonight&hide_border=true" alt="ReikiC Repo" />
   </a>
 </div>
 
