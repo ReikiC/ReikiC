@@ -3,11 +3,65 @@
 </div>
 
 <div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=ReikiC&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ReikiC)
-  [![GitHub followers](https://img.shields.io/github/followers/ReikiC?label=Followers&style=social)](https://github.com/ReikiC?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/ReikiC?label=Stars&style=social)](https://github.com/ReikiC)
-  
+  <a href="https://github.com/ReikiC">
+    <img src="https://komarev.com/ghpvc/?username=ReikiC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ReikiC?tab=followers">
+    <img src="https://img.shields.io/github/followers/ReikiC?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/ReikiC">
+    <img src="https://img.shields.io/github/stars/ReikiC?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+</div>
+
+---
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=ReikiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ReikiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+
+
+<!-- <div align="center">
+  <img src="https://ghcr.dev/achievements/arctic-code-vault-contributor.svg" alt="Arctic Code Vault Contributor" />
+  <img src="https://ghcr.dev/achievements/pull-shark.svg" alt="Pull Shark" />
+  <img src="https://ghcr.dev/achievements/starstruck.svg" alt="Starstruck" />
+  <img src="https://ghcr.dev/achievements/yolo.svg" alt="YOLO" />
+</div> -->
+
+---
+
+## 📅 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ReikiC/ReikiC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReikiC&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReikiC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+
+## 🎯 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/ReikiC">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ReikiC&repo=ReikiC&theme=tokyonight&hide_border=true" alt="ReikiC Repo" />
+  </a>
 </div>
 
 ---
@@ -24,31 +78,6 @@
 - ⚡ Fun fact: I love coding and problem solving!
 
 <br clear="right"/>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-demolab.vercel.app/api?username=ReikiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=ReikiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ReikiC&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReikiC&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReikiC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ---
 
@@ -94,16 +123,6 @@
 
 ---
 
-## 🎯 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/ReikiC/ReikiC">
-    <img src="https://github-readme-stats-demolab.vercel.app/api/pin/?username=ReikiC&repo=ReikiC&theme=tokyonight&hide_border=true" alt="ReikiC Repo" />
-  </a>
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -114,14 +133,6 @@
   [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_WEBSITE.com)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
   
-</div>
-
----
-
-## 📅 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ReikiC/ReikiC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
